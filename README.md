@@ -7,4 +7,4 @@ We relied heavily on Google Cloud's Map's Places and Direction APIs, as well as 
 
 ![Splash Page](https://raw.githubusercontent.com/mjafri118/aegis/master/assets/splash.png "Splash")
 
-![Product Demo](https://raw.githubusercontent.com/mjafri118/aegis/master/assets/theproduct.png "Demo")
+![Product Demo](https://raw.githubusercontent.com/mjafri118/aegis/master/assets/theproduct.PNG "Demo")
